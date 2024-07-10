@@ -15,6 +15,7 @@ Termux (телефон):
     - apt install git
     - git clone https://github.com/Sonys9/tgparser/blob/main/telegram_rare_finder.py
     - pip install requests
+    - cd tgparser
     - python3 telegram_rare_finder.py
 4. Вы успешно установили скрипт!
 
@@ -29,6 +30,7 @@ Linux (пк, на примере kali-linux):
     - apt install git
     - git clone https://github.com/Sonys9/tgparser/blob/main/telegram_rare_finder.py
     - pip install requests
+    - cd tgparser
     - python3 telegram_rare_finder.py
 4. Вы успешно установили скрипт!
 
