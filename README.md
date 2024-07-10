@@ -42,4 +42,9 @@ Windows (пк, на примере windows 10)
 
 -- Скриншоты --
 
-Меню: ![image](https://github.com/Sonys9/tgparser/assets/137277008/1e3fc4d0-d3d6-4b14-a520-8a33ee8ae103)
+Меню: 
+![image](https://github.com/Sonys9/tgparser/assets/137277008/1e3fc4d0-d3d6-4b14-a520-8a33ee8ae103)
+
+Работа:
+![image](https://github.com/Sonys9/tgparser/assets/137277008/aa15be54-39e0-4b8a-b39e-2301e51519e0)
+
